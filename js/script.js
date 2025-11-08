@@ -6,7 +6,7 @@ function welcomeMessage() {
 
     if (name != null) {
 
-        document.getElementById('welcome-speech').innerHTML = 'Hello ' + name + ', welcome to Yama Company!';
+        document.getElementById('welcome-speech').innerHTML = 'Hello ' + name + ', welcome to SMK Negeri 1 Gedangan';
     }
 }
 
